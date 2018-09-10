@@ -645,3 +645,8 @@ input.input100 {
   /*---------------------------------------------*/
 
 }
+
+.lesson-1 {
+  list-style-type: disc;
+  font-size: 18px;
+}
